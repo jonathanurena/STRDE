@@ -1,2 +1,0 @@
-# STRDE
-STRDE
